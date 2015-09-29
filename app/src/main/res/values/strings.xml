@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tutorial ContentProvider</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="name">Podaj imię</string>
+    <string name="addName">Dodaj</string>
+    <string name="remove">Usuń</string>
+    <string name="show">Wyświetl wszytskie wyniki</string>
+</resources>
